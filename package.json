@@ -1,0 +1,22 @@
+{
+  "name": "auto-scrolling",
+  "version": "1.0.0",
+  "description": "A minimal JavaScript library for automatic scrolling contents in an element line by line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpero/auto-scroll.git"
+  },
+  "keywords": [
+    "auto-scroll"
+  ],
+  "author": "Camille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanpero/auto-scroll/issues"
+  },
+  "homepage": "https://github.com/tanpero/auto-scroll#readme"
+}
